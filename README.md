@@ -1,5 +1,27 @@
 # Rest API
 
+# Example Case with need API Management
+
+API in Real Life
+
+![API in Real Life](./img/1.png)
+
+![API in Real Life](./img/2.png)
+
+API Consumers
+
+![API Consumers](./img/3.png)
+
+Add API Management
+
+![Add API Management](./img/4.png)
+
+API Consumers with API Management 
+
+![API Consumers with API Management](./img/5.png)
+
+Management
+
 ## Run dependences
 
 ```bash
