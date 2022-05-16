@@ -42,4 +42,41 @@ docker-compose --version
 
 ```bash
 docker-compose up -d
+docker-compose ps
 ```
+
+Commands Docker Compose
+
+```bash
+#Create all containers, without start them.
+docker-compose up --no-start
+
+#Start all containers.
+docker-compose start
+
+#Stop all running containers.
+docker-compose stop
+```
+
+view kong
+http://localhost:8001
+
+view konga
+http://localhost:1337
+
+view service example
+http://locky:9001/
+
+Docker Network Kong
+
+![Docker Network Kong](./img/7.png)
+
+Use Postman to use Kong
+
+Se Environment Kong
+
+![Se Environment Kong](./img/8.png)
+
+Get in API Kong
+
+![Get in API Kong](./img/9.png)
