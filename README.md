@@ -73,10 +73,51 @@ Docker Network Kong
 
 Use Postman to use Kong
 
-Se Environment Kong
+Set Environment Kong
 
 ![Se Environment Kong](./img/8.png)
 
 Get in API Kong
 
 ![Get in API Kong](./img/9.png)
+
+## Ports Kong
+
+![Ports Kong](./img/11.png)
+
+
+## Kong Services
+
+Add Service
+
+![Add Service](./img/10.png)
+
+## Kong Routes
+
+Add Route
+
+![Add Route](./img/16.png)
+
+http://localhost:8000/qr
+http://goqr.me/api/doc/
+http://momo:8000/qr/v1/create-qr-code/?data=Hello
+
+Service QR in Kong
+
+![Service QR in Kong](./img/12.png)
+
+### Update Endpoint Service
+
+
+![Update Endpoint Service](./img/13.png)
+
+
+![Schema Update Endpoint Service](./img/14.png)
+
+## Kong Consumers
+
+Add Consumers
+
+![Add Consumers](./img/17.png)
+
+![Schema Consumers](./img/15.png)
