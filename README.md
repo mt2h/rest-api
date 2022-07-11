@@ -121,3 +121,45 @@ Add Consumers
 ![Add Consumers](./img/17.png)
 
 ![Schema Consumers](./img/15.png)
+
+## Konga
+
+http://localhost:1337/register
+
+Conexion with Kong
+
+![Conexion with Kong](./img/18.png)
+
+Add Service
+
+![Add Service](./img/19.png)
+
+Add Route on Service
+
+![Add Route on Service](./img/20.png)
+
+View Route on Service on Web Browser
+
+![View Route on Service on Web Browser](./img/21.png)
+
+Add Consumer
+
+![Add Consumer](./img/22.png)
+
+Documentation: https://pantsel.github.io/konga/
+
+Add User
+
+![Add User](./img/23.png)
+
+Take Snapshot Backup
+
+![Take Snapshot Backup](./img/24.png)
+
+Restore from file Snapshot
+
+![Restore from file Snapshot](./img/25.png)
+
+Sheduler Snapshot Backup
+
+![Sheduler Snapshot Backup](./img/26.png)
