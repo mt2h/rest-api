@@ -164,7 +164,7 @@ Sheduler Snapshot Backup
 
 ![Sheduler Snapshot Backup](./img/26.png)
 
-# HealthCheck and LoadBalancer
+## HealthCheck and LoadBalancer
 
 ![Upstream and Target](./img/27.png)
 
@@ -175,3 +175,45 @@ Sheduler Snapshot Backup
 ![LoadBalancer Hash based](./img/30.png)
 
 ![LoadBalancer + HealthCheck](./img/31.png)
+
+### Upstream
+
+In Konga
+
+![Create Upstream](./img/32.png)
+
+![Add Target to Upstream](./img/33.png)
+
+![Edit HealthCheck of Upstream](./img/34.png)
+
+In Postman
+
+![Create Upstream in Postman](./img/35.png)
+
+![Add Target to Upstream in Postman](./img/36.png)
+
+Current Schema
+
+![Current Schema](./img/37.png)
+
+Change Host Service by Upstream
+
+![Change Host Service by Upstream](./img/38.png)
+
+### Enable Alerts of Slack
+
+![Enable Alerts of Slack 1](./img/39.png)
+
+![Enable Alerts of Slack 2](./img/40.png)
+
+![Enable Alerts of Slack 3](./img/41.png)
+
+![Enable Alerts of Slack 4](./img/42.png)
+
+![Enable Alerts of Slack 5](./img/43.png)
+
+![Enable Alerts of Slack 6](./img/44.png)
+
+![Enable Alerts of Slack 7](./img/45.png)
+
+![Enable Alerts from Konga](./img/46.png)
