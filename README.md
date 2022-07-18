@@ -163,3 +163,15 @@ Restore from file Snapshot
 Sheduler Snapshot Backup
 
 ![Sheduler Snapshot Backup](./img/26.png)
+
+# HealthCheck and LoadBalancer
+
+![Upstream and Target](./img/27.png)
+
+![HealthCheck](./img/28.png)
+
+![LoadBalancer Weighted Round Robin](./img/29.png)
+
+![LoadBalancer Hash based](./img/30.png)
+
+![LoadBalancer + HealthCheck](./img/31.png)
