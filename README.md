@@ -65,7 +65,7 @@ view konga
 http://localhost:1337
 
 view service example
-http://locky:9001/
+http://localhost:9001/
 
 Docker Network Kong
 
@@ -100,7 +100,7 @@ Add Route
 
 http://localhost:8000/qr
 http://goqr.me/api/doc/
-http://momo:8000/qr/v1/create-qr-code/?data=Hello
+http://localhost:8000/qr/v1/create-qr-code/?data=Hello
 
 Service QR in Kong
 
@@ -217,3 +217,25 @@ Change Host Service by Upstream
 ![Enable Alerts of Slack 7](./img/45.png)
 
 ![Enable Alerts from Konga](./img/46.png)
+
+## Services & API
+
+### Service Alfa
+
+* Base URL: http://localhost/alpha
+* List of available endpoints: Alpha http://localhost/alpha/swagger-ui.html
+
+### Service Beta
+
+* Base URL: http://localhost/beta
+* List of available endpoints: Alpha http://localhost/beta/swagger-ui.html
+
+### Service Gamma
+
+* Base URL: http://localhost/gamma
+* List of available endpoints: Alpha http://localhost/gamma/swagger-ui.html
+
+### Service Omega
+
+* Base URL: http://localhost/omega
+* List of available endpoints: Alpha http://localhost/omega/swagger-ui.html
