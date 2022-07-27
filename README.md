@@ -239,3 +239,23 @@ Change Host Service by Upstream
 
 * Base URL: http://localhost/omega
 * List of available endpoints: Alpha http://localhost/omega/swagger-ui.html
+
+## Plugin Basic Authentication on Konga
+
+![Plugin Basic Authentication on Konga](./img/47.png)
+
+![Basic Authentication For User](./img/48.png)
+
+![Basic Authentication whith Postman](./img/49.png)
+
+## Add API Key
+
+Add API Key on an Service
+
+![Add API Key on an Service](./img/50.png)
+
+![Add API Key on an Service](./img/51.png)
+
+![Apy Key to User](./img/52.png)
+
+![Using Apy Key to Request on Postman](./img/53.png)
