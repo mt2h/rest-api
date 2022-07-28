@@ -248,7 +248,7 @@ Change Host Service by Upstream
 
 ![Basic Authentication whith Postman](./img/49.png)
 
-## Add API Key
+## Plugin API Key on Konga
 
 Add API Key on an Service
 
@@ -259,3 +259,15 @@ Add API Key on an Service
 ![Apy Key to User](./img/52.png)
 
 ![Using Apy Key to Request on Postman](./img/53.png)
+
+## Plugin HMAC on Konga
+
+![Add HMAC on an Service](./img/54.png)
+
+![Add HMAC to User](./img/55.png)
+
+Generator: https://dinochiesa.github.io/hmachash/index.html
+
+![HMAC Codification](./img/56.png)
+
+![Using HMAC to Request on Postman](./img/57.png)
